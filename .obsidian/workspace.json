@@ -145,7 +145,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "3c9ab3f0d9a26fbc",
@@ -308,10 +309,10 @@
             "id": "1d50ec18e665dfbe",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "graph-analysis"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -353,9 +354,29 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "1b8ddda2151560ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "782709ec04fe4304",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 16
       },
       {
         "id": "4fdde76fb73a99db",
@@ -409,7 +430,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 565.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -432,11 +453,11 @@
       "smart-connections:Smart Connections: Open random connection": true,
       "smart-connections-visualizer:Open smart connections visualizer": false,
       "omnisearch:Omnisearch": false,
-      "related-notes:Toggle related notes": false,
-      "hi-note:HiNote": false
+      "hi-note:HiNote": false,
+      "related-notes:Toggle related notes": false
     }
   },
-  "active": "fc80a5faf45a8e35",
+  "active": "1b8ddda2151560ce",
   "lastOpenFiles": [
     "我的看板/编程语言-spring.md",
     "我的看板/编程语言-java.md",
