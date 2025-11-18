@@ -1,0 +1,488 @@
+{
+  "main": {
+    "id": "562eb717c3ede0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43599e2d137e875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da621c54e0f33096",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "fc80a5faf45a8e35",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "我的看板/编程语言-kotlin.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "编程语言-kotlin"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24985ba228de812f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae139b2467904fc3",
+        "type": "tabs",
+        "dimension": 70.17913593256058,
+        "children": [
+          {
+            "id": "c357c82436273046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aa9c4a8cceed3bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#obsidian/插件",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8171b2ab56e764d0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "91f8501566951b59",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "606e001d38dfc066",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
+          },
+          {
+            "id": "f38b70e667162023",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "397a73a0278cf745",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
+          },
+          {
+            "id": "924aa5d664665345",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c9ab3f0d9a26fbc",
+        "type": "tabs",
+        "dimension": 29.820864067439413,
+        "children": [
+          {
+            "id": "7139261b5a36d93a",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "tag",
+              "title": "Tags overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.50543212890625
+  },
+  "right": {
+    "id": "385eae2ef77af5c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "49be9da5e6ec06c0",
+        "type": "tabs",
+        "dimension": 31.58425832492432,
+        "children": [
+          {
+            "id": "823b3aa44fefa0e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "摘录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "摘录 的反向链接列表"
+            }
+          },
+          {
+            "id": "d9094bafcab7e8de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "摘录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "摘录 的出链列表"
+            }
+          },
+          {
+            "id": "f1914e2050f062ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e04cfe9257361b3a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "3f7367073f128714",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ea482b15d4980427",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "我的看板/编程语言-kotlin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "编程语言-kotlin 的大纲"
+            }
+          },
+          {
+            "id": "07c872aa4a08bfa6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "f92f35fbd60bc372",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chatgpt-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-chatgpt-view"
+            }
+          },
+          {
+            "id": "67ff2eec9fcaa159",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "56f9dce30f6338de",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "1d50ec18e665dfbe",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
+          },
+          {
+            "id": "597ca83ff7131c57",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-visualizer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-visualizer"
+            }
+          },
+          {
+            "id": "6b8ac9bb174d9031",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "c36767bc4fef3b49",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "3e5bf7b32d2c7db1",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4fdde76fb73a99db",
+        "type": "tabs",
+        "dimension": 68.41574167507568,
+        "children": [
+          {
+            "id": "9cd1bd68b555a4ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c38466ae21a9e498",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "6c2cea98f4ec5d5c",
+            "type": "leaf",
+            "state": {
+              "type": "related-notes-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "related-notes-view"
+            }
+          },
+          {
+            "id": "fc58da3b3c967de6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "comment-view",
+              "state": {},
+              "pinned": true,
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "graph:查看关系图谱": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false,
+      "tags-overview:Tags overview": false,
+      "juggl:Juggl global graph": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "omnisearch:Omnisearch": false,
+      "related-notes:Toggle related notes": false,
+      "hi-note:HiNote": false
+    }
+  },
+  "active": "fc80a5faf45a8e35",
+  "lastOpenFiles": [
+    "我的看板/编程语言-spring.md",
+    "我的看板/编程语言-java.md",
+    "我的看板/编程语言-kotlin.md",
+    "我的看板/未命名",
+    "我的看板/笔记理论&Obsidian.md",
+    "我的看板",
+    "Clippings/我们需要什么样的双向链接，它适合你吗？.md",
+    "看板&我的任务/笔记理论&Obsidian.md",
+    "看板&我的任务",
+    "摘录.md",
+    "obsidian/效率小白成长史：谈谈我眼中的「双向链接].md",
+    "Clippings/全面解析 Kotlin 可空性处理初识可空性 Kotlin.md",
+    "Clippings/从目标到工具再到方法，十年产品人的知识管理体系 - 少数派.md",
+    "obsidian/卢曼卡片盒(上篇)｜大师的“秘密武器” - 知乎.md",
+    "obsidian/请不要神化双链笔记 - 少数派.md",
+    "双链笔记.md",
+    "obsidian/卢曼：与卡片盒交流.md",
+    "obsidian/翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派, 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派.md",
+    "obsidian/卢曼卡片盒 (中篇)｜编码，让卡片生长.md",
+    "obsidian.md",
+    "obsidian/Obsidian插件盘点：亲身实践后，推荐这7类42个.md",
+    "Clippings/未确认 971652.crdownload",
+    "Clippings/未确认 436815.crdownload",
+    "obsidian/simpread-(72 封私信 _ 80 条消息) 卢曼卡片盒(上篇)｜大师的“秘密武器” - 知乎.md.crdownload",
+    "Clippings/PKMer_Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作.md",
+    "obsidian/未确认 102380.crdownload",
+    "obsidian/卢曼究竟如何写卡片_ 主卡、文献卡与关键词表卡 _ 卡片法总纲 3.md",
+    "obsidian/未确认 833694.crdownload",
+    "AI/AI对话/你使用的模型是什么@20251113_134252.md",
+    "AI/AI对话/~~序列不支持集合的随机访问，序列是只读的，不支持元素修@20251113_180744.md",
+    "2025-11-17.md",
+    "Clippings/卢曼卡片盒(中篇)｜编码，让卡片生长.md",
+    "obsidian/8款我高频使用的Obsidian插件推荐.md",
+    "obsidian/Obsidian 必备插件，推荐我日常在用的三款.md",
+    "Pasted image 20251114180821.png",
+    "Pasted image 20251114180807.png",
+    "Pasted image 20251114180430.png",
+    "Pasted image 20251114180418.png",
+    "Pasted image 20251114175950.png",
+    "obsidian/未确认 925964.crdownload",
+    "kotlin/未确认 22620.crdownload",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Untitled.canvas"
+  ]
+}

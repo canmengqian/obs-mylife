@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
+  "showRibbon": true,
+  "accentColor": "#cf02de",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "monospaceFontFamily": "Liberation Mono",
+  "textFontFamily": "Arial",
+  "baseFontSize": 16
+}

@@ -1,0 +1,52 @@
+{
+  "comments": {
+    "obsidian/效率小白成长史：谈谈我眼中的「双向链接].md": {
+      "highlight-1763454380406-3034": {
+        "text": "如果细加辨析，二者之间的关联其实是非常有限的。",
+        "position": 3034,
+        "paragraphOffset": 2988,
+        "backgroundColor": "#BBFABBA6",
+        "id": "highlight-1763454380406-3034",
+        "comments": [
+          {
+            "id": "comment-1763454426481-p69ofhdih",
+            "content": "卢曼卡片法和双链并没有特别的联系",
+            "createdAt": 1763454426481,
+            "updatedAt": 1763454426481
+          }
+        ],
+        "createdAt": 1763454380406,
+        "updatedAt": 1763454426481,
+        "originalLength": 67,
+        "isCloze": false,
+        "filePath": "obsidian/效率小白成长史：谈谈我眼中的「双向链接].md",
+        "fileName": "效率小白成长史：谈谈我眼中的「双向链接]",
+        "fileIcon": "file-text"
+      }
+    },
+    "Clippings/我们需要什么样的双向链接，它适合你吗？.md": {
+      "highlight-1763456553567-13982": {
+        "text": "卡片盒笔记法的核心要点在于，一方面，写作不是从一张白纸开始的，我们需要建立一套写作工作流，通过写笔记来思考，让记下来的笔记成为之后写文章的基础。另一方面，知识不是孤立的，我们要关注思考的关联",
+        "position": 13982,
+        "paragraphOffset": 13916,
+        "backgroundColor": "#BBFABBA6",
+        "id": "highlight-1763456553567-13982",
+        "comments": [
+          {
+            "id": "comment-1763456841399-rgshsuwtw",
+            "content": "做笔记只是素材的积累,无法在大脑中形成深刻印象,更何况大脑会遗忘。想要输出高质量的文章,就需要不断的累积素材,打好标签，做好双链引用，划好标注,",
+            "createdAt": 1763456841399,
+            "updatedAt": 1763456841399
+          }
+        ],
+        "createdAt": 1763456553567,
+        "updatedAt": 1763456841399,
+        "originalLength": 139,
+        "isCloze": false,
+        "filePath": "Clippings/我们需要什么样的双向链接，它适合你吗？.md",
+        "fileName": "我们需要什么样的双向链接，它适合你吗？",
+        "fileIcon": "file-text"
+      }
+    }
+  }
+}

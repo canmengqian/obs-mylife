@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "编程语言-kotlin",
+      "path": "我的看板/编程语言-kotlin.md"
+    },
+    {
+      "basename": "编程语言-spring",
+      "path": "我的看板/编程语言-spring.md"
+    },
+    {
+      "basename": "编程语言-java",
+      "path": "我的看板/编程语言-java.md"
+    },
+    {
+      "basename": "笔记理论&Obsidian",
+      "path": "我的看板/笔记理论&Obsidian.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
