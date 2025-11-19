@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "编程语言-kotlin",
-      "path": "我的看板/编程语言-kotlin.md"
-    },
-    {
-      "basename": "编程语言-spring",
-      "path": "我的看板/编程语言-spring.md"
-    },
-    {
-      "basename": "编程语言-java",
-      "path": "我的看板/编程语言-java.md"
+      "basename": "2025-11-19",
+      "path": "日记/2025-11-19.md"
     },
     {
       "basename": "笔记理论&Obsidian",
-      "path": "我的看板/笔记理论&Obsidian.md"
+      "path": "我的看板/日常/笔记理论&Obsidian.md"
+    },
+    {
+      "basename": "随笔",
+      "path": "我的看板/日常/随笔.md"
+    },
+    {
+      "basename": "已完成",
+      "path": "已完成.md"
+    },
+    {
+      "basename": "编程语言-kotlin",
+      "path": "我的看板/职业技能/编程语言-kotlin.md"
+    },
+    {
+      "basename": "编程语言-spring",
+      "path": "我的看板/职业技能/编程语言-spring.md"
+    },
+    {
+      "basename": "编程语言-java",
+      "path": "我的看板/职业技能/编程语言-java.md"
     }
   ],
   "omittedPaths": [],

@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -12,13 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 12260817
-      }
-    },
-    {
-      "query": "tag:#未读  ",
-      "color": {
-        "a": 1,
-        "rgb": 4260085
       }
     }
   ],

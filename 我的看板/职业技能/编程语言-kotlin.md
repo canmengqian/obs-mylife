@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## 进行中
 
-- [ ] ob插件--kanban插件
+- [ ] 循环语句素材收集 #进行中
 
 
 ## 已完成

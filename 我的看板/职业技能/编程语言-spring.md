@@ -10,14 +10,13 @@ kanban-plugin: board
 
 ## 进行中
 
-- [ ] ob插件--kanban插件
 
 
 ## 已完成
 
 
 
-## 取消
+## #取消
 
 
 

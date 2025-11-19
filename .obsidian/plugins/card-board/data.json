@@ -1,0 +1,67 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "进行中",
+              "tag": "进行中"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 1,
+              "limit": 50,
+              "name": "已完成"
+            }
+          },
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "无标签任务"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "我的看板/日常"
+          },
+          {
+            "tag": "pathFilter",
+            "data": "我的看板/职业技能"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "日常任务列表",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "firstDayOfWeek": "Mon",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}
