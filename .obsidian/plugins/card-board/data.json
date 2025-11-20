@@ -13,12 +13,19 @@
             }
           },
           {
-            "tag": "completed",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "index": 1,
-              "limit": 50,
-              "name": "已完成"
+              "name": "已完成",
+              "tag": "done"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "未开始",
+              "tag": "未开始"
             }
           },
           {
@@ -42,6 +49,44 @@
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "日常任务列表",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Untagged"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 1,
+              "limit": 10,
+              "name": "Completed"
+            }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "Other Tags"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "我的看板/琐事"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "琐事",
         "showColumnTags": true,
         "showFilteredTags": true
       }
