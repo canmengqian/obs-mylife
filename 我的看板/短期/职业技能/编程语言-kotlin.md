@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: list
+kanban-plugin: board
 
 ---
 
@@ -14,15 +14,21 @@ kanban-plugin: list
 
 
 ## 进行中
-- [ ] kotlin分支判断网页素材收集 #进行中 
+
+- [ ] kotlin-泛型 #进行中
 
 
 ## 已完成
 
-- [ ] 循环语句素材收集 #done 
+- [x] 循环语句素材收集 #已完成 @completed(2025-11-24T09:24:25+08:00)
+- [x] kotlin分支判断网页素材收集 #已完成 @completed(2025-11-24T09:24:23+08:00)
 
 
 ## 取消
+
+
+
+## 归档
 
 
 
@@ -30,6 +36,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%

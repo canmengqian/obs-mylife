@@ -20,38 +20,13 @@
             }
           },
           {
-            "id": "468120717d5bd481",
+            "id": "ab046b68554bc913",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "我的看板/职业技能/编程语言-kotlin.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "编程语言-kotlin"
-            }
-          },
-          {
-            "id": "211b48bef461d240",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "我的看板/琐事/生活琐事,旅行,购物.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "生活琐事,旅行,购物"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#未开始",
+                "query": "tag:#专业技能",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -159,7 +134,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3c9ab3f0d9a26fbc",
@@ -189,7 +165,7 @@
       {
         "id": "49be9da5e6ec06c0",
         "type": "tabs",
-        "dimension": 61.76795580110497,
+        "dimension": 32.48618784530387,
         "children": [
           {
             "id": "823b3aa44fefa0e6",
@@ -225,21 +201,6 @@
             }
           },
           {
-            "id": "f1914e2050f062ca",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
             "id": "e04cfe9257361b3a",
             "type": "leaf",
             "state": {
@@ -269,13 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的看板/编程语言-kotlin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "编程语言-kotlin 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -294,8 +254,8 @@
             "state": {
               "type": "smart-chatgpt-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-chatgpt-view"
+              "icon": "bot",
+              "title": "Smart ChatGPT"
             }
           },
           {
@@ -304,8 +264,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
@@ -314,8 +274,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "juggl_style"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -334,8 +294,8 @@
             "state": {
               "type": "smart-connections-visualizer",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-visualizer"
+              "icon": "git-fork",
+              "title": "Smart connections visualizer"
             }
           },
           {
@@ -372,10 +332,10 @@
             "id": "1b8ddda2151560ce",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -397,14 +357,24 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "f0a7fec84959f0d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       },
       {
         "id": "4fdde76fb73a99db",
         "type": "tabs",
-        "dimension": 38.232044198895025,
+        "dimension": 67.51381215469613,
         "children": [
           {
             "id": "9cd1bd68b555a4ea",
@@ -412,8 +382,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -422,8 +392,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -432,8 +402,8 @@
             "state": {
               "type": "related-notes-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "related-notes-view"
+              "icon": "zap",
+              "title": "Related Notes"
             }
           },
           {
@@ -447,13 +417,28 @@
               "icon": "highlighter",
               "title": "HiNote"
             }
+          },
+          {
+            "id": "f1914e2050f062ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,32 +462,43 @@
       "smart-connections-visualizer:Open smart connections visualizer": false,
       "omnisearch:Omnisearch": false,
       "hi-note:HiNote": false,
-      "related-notes:Toggle related notes": false,
       "timelines-revamped:Insert Timeline Event": false,
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "related-notes:Toggle related notes": false,
       "card-board:CardBoard": false
     }
   },
-  "active": "468120717d5bd481",
+  "active": "597ca83ff7131c57",
   "lastOpenFiles": [
+    "日记/2025-12-04.md",
+    "日记/2025-12-03.md",
+    "日记/2025-11-25.md",
+    "生活/谈谈不自律的良好生活 - 少数派, 谈谈不自律的良好生活 - 少数派.md",
+    "生活/科学学习-注意力混乱原因分析.md",
+    "生活/未确认 252318.crdownload",
     "我的看板/琐事/生活琐事,旅行,购物.md",
-    "我的看板/职业技能/编程语言-kotlin.md",
+    "生活/未确认 218603.crdownload",
+    "生活",
+    "新建文件夹",
+    "电影/电影.md",
+    "我的看板/短期/职业技能/编程语言-kotlin.md",
     "日记/对当代教育的一些思考.md",
-    "我的看板/日常/笔记理论&Obsidian.md",
+    "我的看板/短期/职业技能/编程语言-spring.md",
+    "我的看板/短期/职业技能/编程语言-java.md",
+    "我的看板/短期/日常/随笔.md",
+    "我的看板/短期/日常/笔记理论&Obsidian.md",
+    "我的看板/长期规划/未命名看板.md",
+    "我的看板/短期",
+    "我的看板/长期规划/未命名.canvas",
+    "我的看板/长期规划",
+    "电影",
     "我的看板/琐事",
-    "我的看板/日常/随笔.md",
     "已完成.md",
-    "我的看板/职业技能/编程语言-spring.md",
-    "我的看板/职业技能/编程语言-java.md",
     "我的看板/工作/汇成.md",
     "我的看板/工作",
-    "我的看板/日常",
-    "我的看板/职业技能",
-    "日记",
-    "我的看板",
+    "我的看板/短期/日常",
     "Clippings/我们需要什么样的双向链接，它适合你吗？.md",
     "看板&我的任务/笔记理论&Obsidian.md",
-    "看板&我的任务",
     "摘录.md",
     "obsidian/效率小白成长史：谈谈我眼中的「双向链接].md",
     "Clippings/全面解析 Kotlin 可空性处理初识可空性 Kotlin.md",
@@ -511,15 +507,6 @@
     "obsidian/请不要神化双链笔记 - 少数派.md",
     "双链笔记.md",
     "obsidian/卢曼：与卡片盒交流.md",
-    "obsidian/翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派, 翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派.md",
-    "obsidian/卢曼卡片盒 (中篇)｜编码，让卡片生长.md",
-    "obsidian.md",
-    "obsidian/Obsidian插件盘点：亲身实践后，推荐这7类42个.md",
-    "Clippings/未确认 971652.crdownload",
-    "Clippings/未确认 436815.crdownload",
-    "obsidian/simpread-(72 封私信 _ 80 条消息) 卢曼卡片盒(上篇)｜大师的“秘密武器” - 知乎.md.crdownload",
-    "Clippings/PKMer_Obsidian 插件：Image toolkit 提供笔记中查看图片的基本操作.md",
-    "obsidian/卢曼究竟如何写卡片_ 主卡、文献卡与关键词表卡 _ 卡片法总纲 3.md",
     "Pasted image 20251114180821.png",
     "Pasted image 20251114180807.png",
     "Pasted image 20251114180430.png",

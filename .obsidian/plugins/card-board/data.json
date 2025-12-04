@@ -17,7 +17,7 @@
             "data": {
               "collapsed": false,
               "name": "已完成",
-              "tag": "done"
+              "tag": "已完成"
             }
           },
           {
@@ -39,11 +39,7 @@
         "filters": [
           {
             "tag": "pathFilter",
-            "data": "我的看板/日常"
-          },
-          {
-            "tag": "pathFilter",
-            "data": "我的看板/职业技能"
+            "data": "我的看板/短期"
           }
         ],
         "filterPolarity": "Allow",
