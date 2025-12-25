@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-12-19.md",
+                "file": "日记/2025-12-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-19"
+              "title": "2025-12-25"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#专业技能",
+                "query": "tag:#科学学习/沟通",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -138,7 +138,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3c9ab3f0d9a26fbc",
@@ -351,6 +352,16 @@
             "id": "f0a7fec84959f0d2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "39a8b160a5a81516",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -358,7 +369,7 @@
             }
           },
           {
-            "id": "39a8b160a5a81516",
+            "id": "545c4676fba68da7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -401,8 +412,8 @@
             "state": {
               "type": "related-notes-view",
               "state": {},
-              "icon": "zap",
-              "title": "Related Notes"
+              "icon": "lucide-ghost",
+              "title": "related-notes-view"
             }
           },
           {
@@ -447,11 +458,12 @@
               "title": "2025-12-19 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -484,6 +496,7 @@
   "active": "e5ea867a059751ca",
   "lastOpenFiles": [
     "日记/2025-12-19.md",
+    "日记/2025-12-25.md",
     "日记/2025-12-11 AI理解的《劝学》.md",
     "日记/2025-12-08.md",
     "日记/2025-12-04.md",
@@ -519,7 +532,6 @@
     "obsidian/效率小白成长史：谈谈我眼中的「双向链接].md",
     "Clippings/全面解析 Kotlin 可空性处理初识可空性 Kotlin.md",
     "Clippings/从目标到工具再到方法，十年产品人的知识管理体系 - 少数派.md",
-    "obsidian/卢曼卡片盒(上篇)｜大师的“秘密武器” - 知乎.md",
     "Pasted image 20251114180821.png",
     "Pasted image 20251114180807.png",
     "Pasted image 20251114180430.png",
